@@ -14,7 +14,7 @@
 }
 .przyciski {
     display: flex;
-    gap: 50px;
+    gap: 20px;
     align-items: center;
     margin: 50px;
 }
@@ -68,4 +68,5 @@ p {
     text-align: center;
     font-size: larger;
     font-weight: bold;
+
 }
